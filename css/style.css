@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(215, 250, 244);
+}
+.fresa{
+    color: brown;
+    font-size: 30px;
+}
+p{
+    color: fuchsia;
+}
+.manzana{
+    color: rgb(42, 165, 58);
+    font-size: 30px;
+}
+p{
+    color: fuchsia;
+}
